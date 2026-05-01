@@ -1,0 +1,159 @@
+[2026-01-19 20:05:43] Invalid password attempt
+RAW: {"username":"yosiboy","password":"julas12345"}
+PARSED: array (
+  'db_password_hash' => '$2y$10$0F3Tz9tNIsZnyQleFNO1fearYcZrexe7c72wNcA1Aiipll/fB0Wtu',
+)
+
+[2026-01-19 20:05:45] Invalid password attempt
+RAW: {"username":"yosiboy","password":"julas12345"}
+PARSED: array (
+  'db_password_hash' => '$2y$10$0F3Tz9tNIsZnyQleFNO1fearYcZrexe7c72wNcA1Aiipll/fB0Wtu',
+)
+
+[2026-01-19 20:05:54] Invalid password attempt
+RAW: {"username":"yosiboy","password":"Julas123"}
+PARSED: array (
+  'db_password_hash' => '$2y$10$0F3Tz9tNIsZnyQleFNO1fearYcZrexe7c72wNcA1Aiipll/fB0Wtu',
+)
+
+[2026-01-19 20:06:02] Invalid password attempt
+RAW: {"username":"yosiboy","password":"Julasis123"}
+PARSED: array (
+  'db_password_hash' => '$2y$10$0F3Tz9tNIsZnyQleFNO1fearYcZrexe7c72wNcA1Aiipll/fB0Wtu',
+)
+
+[2026-01-19 20:06:04] Invalid password attempt
+RAW: {"username":"yosiboy","password":"Julasis123"}
+PARSED: array (
+  'db_password_hash' => '$2y$10$0F3Tz9tNIsZnyQleFNO1fearYcZrexe7c72wNcA1Aiipll/fB0Wtu',
+)
+
+[2026-01-19 20:06:07] Invalid password attempt
+RAW: {"username":"yosiboy","password":"Julasis123"}
+PARSED: array (
+  'db_password_hash' => '$2y$10$0F3Tz9tNIsZnyQleFNO1fearYcZrexe7c72wNcA1Aiipll/fB0Wtu',
+)
+
+[2026-01-20 20:22:33] Invalid password attempt
+RAW: {"username":"yosiboy","password":"kb12345678"}
+PARSED: array (
+  'db_password_hash' => '$2y$10$0F3Tz9tNIsZnyQleFNO1fearYcZrexe7c72wNcA1Aiipll/fB0Wtu',
+)
+
+[2026-01-20 20:22:36] Invalid password attempt
+RAW: {"username":"yosiboy","password":"kb12345678"}
+PARSED: array (
+  'db_password_hash' => '$2y$10$0F3Tz9tNIsZnyQleFNO1fearYcZrexe7c72wNcA1Aiipll/fB0Wtu',
+)
+
+[2026-01-20 22:27:55] User not found
+RAW: {"username":"kb","password":"kb12345678"}
+PARSED: (object) array(
+   'username' => 'kb',
+   'password' => 'kb12345678',
+)
+
+[2026-01-20 22:27:55] User not found
+RAW: {"username":"kb","password":"kb12345678"}
+PARSED: (object) array(
+   'username' => 'kb',
+   'password' => 'kb12345678',
+)
+
+[2026-01-20 22:27:55] User not found
+RAW: {"username":"kb","password":"kb12345678"}
+PARSED: (object) array(
+   'username' => 'kb',
+   'password' => 'kb12345678',
+)
+
+[2026-01-20 22:27:55] User not found
+RAW: {"username":"kb","password":"kb12345678"}
+PARSED: (object) array(
+   'username' => 'kb',
+   'password' => 'kb12345678',
+)
+
+[2026-01-20 22:27:55] User not found
+RAW: {"username":"kb","password":"kb12345678"}
+PARSED: (object) array(
+   'username' => 'kb',
+   'password' => 'kb12345678',
+)
+
+[2026-01-20 22:33:53] User not found
+RAW: {"username":"kb","password":"kb12345678"}
+PARSED: (object) array(
+   'username' => 'kb',
+   'password' => 'kb12345678',
+)
+
+[2026-01-20 22:33:57] User not found
+RAW: {"username":"kb","password":"kb12345678"}
+PARSED: (object) array(
+   'username' => 'kb',
+   'password' => 'kb12345678',
+)
+
+[2026-01-20 22:33:57] User not found
+RAW: {"username":"kb","password":"kb12345678"}
+PARSED: (object) array(
+   'username' => 'kb',
+   'password' => 'kb12345678',
+)
+
+[2026-01-20 22:33:57] User not found
+RAW: {"username":"kb","password":"kb12345678"}
+PARSED: (object) array(
+   'username' => 'kb',
+   'password' => 'kb12345678',
+)
+
+[2026-01-20 22:33:58] User not found
+RAW: {"username":"kb","password":"kb12345678"}
+PARSED: (object) array(
+   'username' => 'kb',
+   'password' => 'kb12345678',
+)
+
+[2026-01-20 22:33:58] User not found
+RAW: {"username":"kb","password":"kb12345678"}
+PARSED: (object) array(
+   'username' => 'kb',
+   'password' => 'kb12345678',
+)
+
+[2026-01-20 22:33:58] User not found
+RAW: {"username":"kb","password":"kb12345678"}
+PARSED: (object) array(
+   'username' => 'kb',
+   'password' => 'kb12345678',
+)
+
+[2026-01-20 22:33:58] User not found
+RAW: {"username":"kb","password":"kb12345678"}
+PARSED: (object) array(
+   'username' => 'kb',
+   'password' => 'kb12345678',
+)
+
+[2026-01-20 22:36:52] User not found
+RAW: {"username":"kb","password":"kb12345678"}
+PARSED: (object) array(
+   'username' => 'kb',
+   'password' => 'kb12345678',
+)
+
+[2026-01-20 22:36:56] User not found
+RAW: {"username":"kb","password":"kb12345678"}
+PARSED: (object) array(
+   'username' => 'kb',
+   'password' => 'kb12345678',
+)
+
+[2026-01-20 22:38:42] Invalid password attempt
+RAW: {"username":"fani","password":"kb12345678"}
+PARSED: array (
+  'db_password_hash' => '$2y$10$wwuF9BwRL1JRa1ELmR8tnuvbgWP7tqZ2wuY1ddRcWVSA1aADID5pW',
+)
+

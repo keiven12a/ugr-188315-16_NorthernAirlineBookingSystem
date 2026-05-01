@@ -1,0 +1,16 @@
+[2026-01-19 13:33:11] Invalid password format
+RAW: {"name":"kb","username":"yosiboy","gender":"Male","age":22,"email":"WEQUIO@gmail.com","passport_number":"1234567876543","password":"123456789"}
+PARSED: (object) array(
+   'name' => 'kb',
+   'username' => 'yosiboy',
+   'gender' => 'Male',
+   'age' => 22,
+   'email' => 'WEQUIO@gmail.com',
+   'passport_number' => '1234567876543',
+   'password' => '123456789',
+)
+
+[2026-01-19 14:02:55] Missing required fields
+RAW: 
+PARSED: NULL
+
